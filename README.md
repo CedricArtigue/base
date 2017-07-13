@@ -1,5 +1,8 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+# Purpose of this repo
+A starting point for Meteor apps derived from The Meteor Chef Base.
+
+# TODO
+Replace react-bootstrap with react-semantic-ui
 
 ---
 #### Deprecation Warning
