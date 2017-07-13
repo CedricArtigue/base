@@ -1,5 +1,6 @@
 # Purpose of this repo
 A starting point for Meteor apps derived from The Meteor Chef Base.
+Base is using react-bootstrap as toolkit, the idea here is to replace it with react-semantic-ui to enhance UX of boilerplate.
 
 # TODO
 Replace react-bootstrap with react-semantic-ui
